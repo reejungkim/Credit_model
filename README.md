@@ -9,3 +9,4 @@
 - classifier models applied: random forest, logitics, xgboost, lightGBM 
 - metrics for model evaluation: ROC curve
 - metrics for feature importance: Shapley values
+<img src="img/roc.png" height="200" width="300"> 
