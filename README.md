@@ -15,3 +15,9 @@
 - metrics for model evaluation: ROC curve
 - metrics for feature importance: Shapley values
 <img src="img/roc.png" height="200" width="300"> 
+
+
+
+### References 
+- [code reference](https://towardsdatascience.com/streamline-model-tuning-on-bankruptcy-predictions-aabbc2fe62c0)
+- [sklearn GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
