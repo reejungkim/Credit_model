@@ -17,6 +17,11 @@
 <img src="img/roc.png" height="200" width="300"> 
 
 
+ROC explanation
+
+<img src="img/auc1.png" height="100" width="200"> <img src="img/auc07.png" height="100" width="200"> <img src="img/auc05.png" height="100" width="200"> 
+
+
 
 ### References 
 - [sklearn GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
