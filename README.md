@@ -22,6 +22,11 @@ ROC explanation
 
 <img src="img/auc1.png" height="100" width="200"> <img src="img/auc07.png" height="100" width="200"> <img src="img/auc05.png" height="100" width="200"> 
 
+Binary claissifier evaluation metrics explanation:
+
+<img src="img/EvaluationMetrics.png" height="200" width="470"> 
+trade-off between Precision and Recall
+
 
 
 ### References 
