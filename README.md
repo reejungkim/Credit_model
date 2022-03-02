@@ -38,6 +38,7 @@
 - [sklearn GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
 - [Towards Data Science model tuning](https://towardsdatascience.com/streamline-model-tuning-on-bankruptcy-predictions-aabbc2fe62c0)
 - [RFECV](https://process-mining.tistory.com/138)
-
-
+- [소매금융 신용평가 및 스코어링모형의 적합성 검증 PPT](https://slidesplayer.org/slide/17900551/https://slidesplayer.org/slide/17900551/)
+- [2021 가명정보 활용 우수사례 대상 카카오뱅크 유튜브](https://www.youtube.com/watch?v=Ieqvp8n5PnE&ab_channel=K-ICT%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0)
+- [카뱅 신용평가모델 삼프로 유튜브](https://www.youtube.com/watch?v=XwMwmpyNsdA&ab_channel=%EC%82%BC%ED%94%84%EB%A1%9CTV_%EA%B2%BD%EC%A0%9C%EC%9D%98%EC%8B%A0%EA%B3%BC%ED%95%A8%EA%BB%98)
 
