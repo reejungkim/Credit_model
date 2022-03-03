@@ -6,6 +6,7 @@
 [![Git page](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://reejungkim.github.io/)](https://reejungkim.github.io/)
 <br></br>
 
+[View code: PSI calculation](https://github.com/reejungkim/Credit_model/blob/main/PSI%20calculation.ipynb)
 
 [View code: Scorecard](https://nbviewer.jupyter.org/github/reejungkim/Credit_model/blob/main/scorecard.ipynb)
 
