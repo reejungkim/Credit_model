@@ -1,0 +1,33 @@
+car_kind,prob,engine_type
+Mazda RX4,0.657238982,0
+Mazda RX4 Wag,0.712358303,0
+Datsun 710,0.858258575,1
+Hornet 4 Drive,0.776953517,1
+Hornet Sportabout,0.016728654,0
+Valiant,0.872199747,1
+Duster 360,4.93E-05,0
+Merc 240D,0.99512885,1
+Merc 230,0.921505398,1
+Merc 280,0.590068531,1
+Merc 280C,0.590068531,1
+Merc 450SE,0.020464417,0
+Merc 450SL,0.014636015,0
+Merc 450SLC,0.015377408,0
+Cadillac Fleetwood,0.008017243,0
+Lincoln Continental,0.004082341,0
+Chrysler Imperial,0.001051534,0
+Fiat 128,0.981744275,1
+Honda Civic,0.989976496,1
+Toyota Corolla,0.975966514,1
+Toyota Corona,0.83271598,1
+Dodge Challenger,0.134722167,0
+AMC Javelin,0.125086476,0
+Camaro Z28,6.46E-05,0
+Pontiac Firebird,0.024906363,0
+Fiat X1-9,0.976315561,1
+Porsche 914-2,0.857048961,0
+Lotus Europa,0.328336165,1
+Ford Pantera L,6.52E-06,0
+Ferrari Dino,0.008611581,0
+Maserati Bora,2.27E-08,0
+Volvo 142E,0.710310939,1
