@@ -21,7 +21,7 @@ Credit Risk = PD * EAD * LGD
     
 [View code: Scorecard](https://github.com/reejungkim/Scorecard/blob/main/Scorecard%20binning.ipynb)
 
-## Bankruptcy prediciton
+## Bankruptcy prediction
 [View code: bankruptcy prediction](https://nbviewer.jupyter.org/github/reejungkim/Credit_model/blob/main/Predicting%20bankruptcies.ipynb)
 - feature reduction: recursive feature selection with cross validation (RFECV)
 - classifier models applied: random forest, gradientboost, xgboost, lightGBM
