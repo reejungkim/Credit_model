@@ -6,9 +6,13 @@
 [![Git page](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://reejungkim.github.io/)](https://reejungkim.github.io/)
 <br></br>
 
-[View code: PSI calculation](https://github.com/reejungkim/Credit_model/blob/main/PSI%20calculation.ipynb)
+[View code: Population Stability Index (PSI) calculation](https://github.com/reejungkim/Credit_model/blob/main/PSI%20calculation.ipynb)
 
-[View code: Scorecard](https://nbviewer.jupyter.org/github/reejungkim/Credit_model/blob/main/scorecard.ipynb)
+[View code: Information Value (IV) calculation](https://github.com/reejungkim/Credit_model/blob/main/IF%20calculation.ipynb)
+
+[View code: Kolmogorov-Smirnov (KS) calculation](https://github.com/reejungkim/Credit_model/blob/main/K-S%20calculation.ipynb)
+
+[View code: Scorecard](https://github.com/reejungkim/Scorecard/blob/main/Scorecard%20binning.ipynb)
 
 [View code: bankruptcy prediction](https://nbviewer.jupyter.org/github/reejungkim/Credit_model/blob/main/Predicting%20bankruptcies.ipynb)
 - feature reduction: recursive feature selection with cross validation (RFECV)
